@@ -20,7 +20,7 @@ GEONMI-MEMS-Logos-5 VLEO: Proprietary Platform Adaptive Core
 
 <img width="720" height="893" alt="Image" src="https://github.com/user-attachments/assets/8558b9b2-2479-4055-959e-b39fdb4befcf" />
 <img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/b22b2281-a621-4f38-82ee-c02e6ededfba" />
-##Disclaimer: All financial figures provided herein are purely hypothetical, estimated for illustrative purposes only, and do not constitute a binding rule or official guarantee.
+Disclaimer: All financial figures provided herein are purely hypothetical, estimated for illustrative purposes only, and do not constitute a binding rule or official guarantee.
 
 
 ## 🛰️ Overview
