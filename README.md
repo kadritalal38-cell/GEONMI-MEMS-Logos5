@@ -20,6 +20,8 @@ GEONMI-MEMS-Logos-5 VLEO: Proprietary Platform Adaptive Core
 
 <img width="720" height="893" alt="Image" src="https://github.com/user-attachments/assets/8558b9b2-2479-4055-959e-b39fdb4befcf" />
 <img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/b22b2281-a621-4f38-82ee-c02e6ededfba" />
+##Disclaimer: All financial figures provided herein are purely hypothetical, estimated for illustrative purposes only, and do not constitute a binding rule or official guarantee.
+
 
 ## 🛰️ Overview
 **GEONMI-VLEO** is a highly proprietary, zero-heap, deterministic C++17 software framework architected to optimize operational endurance and mitigate systemic degradation factors inherent to commercial space assets. By integrating high-reliability real-time embedded architectures with robust supervisory safety logic, this framework enables deployed space assets to achieve autonomous structural passivation and continuous environmental adaptation, significantly extending commercial mission lifespans beyond conventional orbital limits.
